@@ -3,7 +3,7 @@
 Projeto em NextJs + Typescript + TailWindCSS
 
 ## Link Projeto 
-https://estagio-target.vercel.app/
+https://estagio-target2.vercel.app/
 
 ## Instalação
 - `npm install`
